@@ -31,7 +31,7 @@ user_info=[
 site_urls={
 	"index":"http://www.xiami.com",
 	"login":"https://login.xiami.com/member/login",
-    "check-if-logged-in":"http://www.xiami.com/home/indexright",
+    "check-if-logged-in":"http://www.xiami.com/index/indexright",
 	"signin":"http://www.xiami.com/task/signin",
 }
 
